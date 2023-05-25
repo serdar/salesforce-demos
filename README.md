@@ -1,3 +1,3 @@
 # salesforce-utils
 
-Utilities to work with Salesforce with NForce
+Utilities to work with Salesforce using NForce
